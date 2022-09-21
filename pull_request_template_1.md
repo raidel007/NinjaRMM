@@ -26,8 +26,4 @@
 2. [ ] Down
 3. [ ] Unchanged
 
-**Do the changes meet all Security Scans?**
-1. [ ] Yes
-2. [ ] No
-
 **Provide any other useful information below**
